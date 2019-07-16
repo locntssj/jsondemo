@@ -9,6 +9,26 @@
 "address":"Ha Noi"
 },
 {
+"name":"Vang Anh",
+"age":22,
+"address":"Gia Lai"
+},
+{
+"name":"Tong Quynh",
+"age":19,
+"address":"Sai Gon"
+},
+{
+"name":"Lao Tu",
+"age":20,
+"address":"Ninh Thuan"
+},
+{
+"name":"Xuan Phuc",
+"age":20,
+"address":"Ha Noi"
+},
+{
 "name":"Tram Anh",
 "age":26,
 "address":"Long An"
